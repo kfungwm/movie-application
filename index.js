@@ -6,7 +6,7 @@ var app = express();
 
 
 
-var dataInMemory = ["data.json"];
+var dataInMemory = JSON.parse(fs.readFileSync("data.json").toString())["movies"];
 
 
 
