@@ -5,7 +5,7 @@
       "title": "Star Wars: The Force Awakens",
       "slug": "star-wars-7",
       "imageURL": "../images/starwars7.jpg",
-      "directorName": "by J.J. Abrams",
+      "directorName": "J.J. Abrams",
       "description": "30 years after the defeat of Darth Vader and the Empire, Rey, a scavenger from the planet Jakku, finds a BB-8 droid that knows the whereabouts of the long lost Luke Skywalker. Rey, as well as a rogue stormtrooper and two smugglers, are thrown into the middle of a battle between the Resistance and the daunting legions of the First Order.",
       "year": 2015
     },
@@ -13,7 +13,7 @@
       "title": "The Martian",
       "slug": "The-Martian",
       "imageURL": "../images/mars.jpg",
-      "directorName": "by Ridley Scott",
+      "directorName": "Ridley Scott",
       "description": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring the Martian home, while his crewmates concurrently plot a daring, if not impossible, rescue mission.",
       "year": 2015
     },
@@ -21,7 +21,7 @@
       "title": "Furious 7",
       "slug": "Furious-7",
       "imageURL": "../images/ff7.jpg",
-      "directorName": "by James Wan",
+      "directorName": "James Wan",
       "description": "Dominic and his crew thought they'd left the criminal mercenary life behind. They'd defeated international terrorist Owen Shaw and went their separate ways. But now, Shaw's brother, Deckard Shaw, is out killing the crew one by one for revenge. Worse, a Somalian terrorist called Jakarde and a shady government official called Mr. Nobody are both competing to steal a computer terrorism program called God's Eye, that can turn any technological device into a weapon. Torretto must reconvene with his team to stop Shaw and retrieve the God's Eye program while caught in a power struggle between the terrorist and the United States government.",
       "year": 2015
     }
